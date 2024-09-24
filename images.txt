@@ -8,3 +8,4 @@ mysql:8.0.18
 nacos/nacos-server:2.0.2
 rabbitmq:3-management
 elasticsearch:7.14.0
+kibana:7.14.0
